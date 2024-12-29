@@ -140,5 +140,3 @@ pip install torch torchvision opendatasets numpy pandas matplotlib scikit-learn
 - PyTorch Documentation: [PyTorch.org](https://pytorch.org/docs/)  
 
 ---
-
-Let me know if you need further edits or customizations!
